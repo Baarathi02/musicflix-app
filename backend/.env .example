@@ -1,0 +1,5 @@
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=2520
+DB_NAME=music_streaming
+PORT=5000
